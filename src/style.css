@@ -8,10 +8,10 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-	gap: 0.5rem;
-	border: 2px solid #000;
-	width: fit-content;
-	margin: auto;
+  gap: 0.5rem;
+  border: 2px solid #000;
+  width: fit-content;
+  margin: auto;
 }
 
 .display {
@@ -19,18 +19,18 @@ body {
   align-items: center;
   justify-content: center;
   gap: 1rem;
-	padding: 10px;
+  padding: 10px;
 }
 
 .display input {
-	height: 5vh;
-	width: 12vw;
+  height: 5vh;
+  width: 12vw;
 }
 
 .result {
-	height: 10vh;
-	width: 31vw;
-	border: 2px solid #000;
-	margin-bottom: 10px;
-	text-align: center;
+  height: 10vh;
+  width: 31vw;
+  border: 2px solid #000;
+  margin-bottom: 10px;
+  text-align: center;
 }
